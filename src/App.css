@@ -1,6 +1,6 @@
 .App {
   text-align: center;
-  font-family: "Rye", serif;
+  font-family: "Epunda Slab", serif;
 }
 
 .App-logo {
@@ -27,7 +27,7 @@
   color: white;
 }
 .App-body {
-  background-color: #f0f8ff;
+  background-color: #023f07;
   min-height: 80vh;
   display: flex;
   flex-direction: column;
@@ -42,10 +42,10 @@
 }
 
 .App-footer {
-  background-color: #023f07;
+  background-color: white;
   min-height: 10vh;
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
   align-items: center;
   justify-content: center;
   text-align: center;
@@ -53,6 +53,7 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
+
 .App-link {
   color: #61dafb;
 }
